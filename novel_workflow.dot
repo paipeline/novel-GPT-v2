@@ -1,0 +1,55 @@
+digraph NovelWritingProcess {
+    node [shape=box, style=filled, color=lightgrey];
+    rankdir=LR;
+
+    subgraph cluster_Agents {
+        label = "Agents";
+        style=filled;
+        color=lightblue;
+        node [style=filled,color=white];
+        
+        TitleGenerator [label="书名生成器\n生成书名"];
+        ChapterWriter [label="章节作者\n写章节"];
+        OutlineDesigner [label="大纲设计师\n制定大纲"];
+        SupervisingEditor [label="监督编辑\n监督和审核"];
+        SceneDesigner [label="场景设计师\n设计场景"];
+        CharacterDesigner [label="角色设计师\n设计角色"];
+        MarkdownFormatter [label="Markdown格式化师\n格式化书籍内容"];
+        LanguageChecker [label="语言检查员\n检查语言准确性"];
+    }
+
+    subgraph cluster_Tasks {
+        label = "Tasks";
+        style=filled;
+        color=lightgreen;
+        node [style=filled,color=white];
+        
+        GenerateOutline [label="制定大纲"];
+        DevelopScenes [label="制定场景"];
+        DevelopCharacters [label="开发角色"];
+        GenerateBookTitle [label="生成书名"];
+        WriteChapters [label="写章节"];
+        ReviewChapters [label="审核章节"];
+        LanguageCheck [label="检查语言"];
+        MarkdownFormat [label="格式化书籍"];
+    }
+
+    // Relations
+    GenerateOutline -> OutlineDesigner;
+    DevelopScenes -> SceneDesigner;
+    DevelopCharacters -> CharacterDesigner;
+    GenerateBookTitle -> TitleGenerator;
+    WriteChapters -> ChapterWriter;
+    ReviewChapters -> SupervisingEditor;
+    LanguageCheck -> LanguageChecker;
+    MarkdownFormat -> MarkdownFormatter;
+
+    GenerateOutline -> DevelopScenes;
+    GenerateOutline -> DevelopCharacters;
+    GenerateOutline -> WriteChapters;
+    DevelopScenes -> WriteChapters;
+    DevelopCharacters -> WriteChapters;
+    WriteChapters -> ReviewChapters;
+    ReviewChapters -> LanguageCheck;
+    LanguageCheck -> MarkdownFormat;
+}

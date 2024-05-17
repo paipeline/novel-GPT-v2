@@ -1,0 +1,11 @@
+Chapter 5 Outline:
+- Introduction:
+   - 莱昂纳多 and 阿德里安娜, having successfully obtained the necessary materials, prepare to perform the ritual to lift the curse.
+- Rising Action:
+   - The duo faces challenges as they journey to the designated ritual site, encountering obstacles and opposition from dark forces.
+- Climax:
+   - At the ritual site, they confront a powerful entity guarding the curse, leading to a dramatic showdown.
+- Falling Action:
+   - The ritual begins, and the true nature of the curse is revealed, testing their resolve and courage.
+- Resolution:
+   - With the curse lifted, 莱昂纳多 and 阿德里安娜 emerge victorious, but the aftermath brings unforeseen consequences that set the stage for the next chapter's challenges.
