@@ -1,8 +1,11 @@
-Chapter 2 Outline:
-1. 莱昂纳多 and 阿德里安娜 arrive at the Duke's palace and are granted an audience.
-2. They present the parchment with mysterious symbols to the Duke, explaining its significance in combating the creatures.
-3. The Duke is initially skeptical but agrees to investigate further.
-4. As they leave the palace, they are approached by a mysterious figure who warns them of impending danger.
-5. 莱昂纳多 and 阿德里安娜 begin to unravel the secrets of the symbols, uncovering a hidden history.
-6. They encounter resistance from unknown forces seeking to silence them.
-7. The chapter ends with a cliffhanger as they make a shocking discovery about the true nature of the creatures threatening the city.
+#### 第二章：准备面试
+
+- **目标**：展示小明准备面试的过程，增加紧张和期待感。
+- **主要情节点**：
+  1. 小明上网搜索腾讯面试题，结果被各种高难度问题吓到。
+  2. 购买各种面试书籍和课程，学习效果却不佳。
+  3. 与朋友模拟面试，结果朋友当场笑喷。
+- **幽默元素**：
+  - 小明在书店疯狂采购面试书籍的场景，被售货员误认为是招聘面试官。
+  - 小明尝试背诵各种问题答案，结果在朋友面前一答出来就背诵错了。
+  - 模拟面试时，朋友扮演的面试官提出超级奇怪的问题，小明的回答更加搞笑，朋友笑得喷饭。

@@ -1,8 +1,13 @@
-Chapter 7 Outline:
-1. 阿德里安娜 and 莱昂纳多 reach the ancient ruins known as the "Tower of Dawn" after a perilous journey.
-2. They discover hidden chambers within the tower containing clues about the origins of the mysterious creatures.
-3. The protagonists decipher ancient inscriptions that lead them to a hidden chamber deep within the tower.
-4. In the chamber, they uncover a powerful artifact that holds the key to defeating the creatures.
-5. As they try to retrieve the artifact, they are ambushed by a group of creatures, leading to a thrilling battle.
-6. Despite facing overwhelming odds, 阿德里安娜 and 莱昂纳多 emerge victorious and secure the artifact.
-7. The chapter ends with the protagonists realizing the true extent of the creatures' threat and the daunting task ahead to save their city.
+#### 第七章：压力面试—心理战
+- **目标**：展示小明在压力面试中的心理挑战和搞笑表现。
+- **主要情节点**：
+  - 面试官通过提问和情景模拟对小明进行心理压力测试。
+  - 小明在压力下崩溃，表现出各种搞笑的反应。
+  - 面试官对小明的表现既惊讶又好笑。
+- **幽默元素**：
+  - 面试官提问小明各种出人意料的问题，如“如果你是一只猫，你会怎么看待生活？”
+  - 小明的夸张反应和回答，比如模仿猫的姿势或者开玩笑说自己会吃掉所有的鱼。
+- **情节发展**：
+  - 小明在面对压力面试时，本来自信满满的态度逐渐被面试官的问题击溃，表现出心理上的脆弱和幽默。
+  - 面试官在看到小明的各种搞笑反应后，也开始对他的创意和幽默感产生兴趣，试图解读他的回答背后的意义。
+  - 最终，小明虽然在压力面试中表现出了许多搞笑的一面，但也通过自己独特的方式吸引了面试官的注意，展现出了不同于其他候选人的特质。

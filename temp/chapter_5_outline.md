@@ -1,11 +1,12 @@
-Chapter 5 Outline:
-- Introduction:
-   - 莱昂纳多 and 阿德里安娜, having successfully obtained the necessary materials, prepare to perform the ritual to lift the curse.
-- Rising Action:
-   - The duo faces challenges as they journey to the designated ritual site, encountering obstacles and opposition from dark forces.
-- Climax:
-   - At the ritual site, they confront a powerful entity guarding the curse, leading to a dramatic showdown.
-- Falling Action:
-   - The ritual begins, and the true nature of the curse is revealed, testing their resolve and courage.
-- Resolution:
-   - With the curse lifted, 莱昂纳多 and 阿德里安娜 emerge victorious, but the aftermath brings unforeseen consequences that set the stage for the next chapter's challenges.
+#### 第五章：技术面试—技术小白的挑战
+- **目标**：展示小明在技术面试中的搞笑表现和艰难挑战。
+- **主要情节点**：
+  1. 技术面试官提出高难度的编程问题，小明手足无措。
+     - 面试官要求小明解释二分查找算法，小明犯了个低级错误，将数组排序后再进行查找。
+  2. 小明尝试各种方法解答问题，结果频频出错。
+     - 小明在代码中使用了错误的语法，导致程序无法编译通过。
+  3. 面试官对小明的表现既无奈又好笑。
+     - 面试官看着小明的错误答案，忍不住笑了出来，但也给予小明一些建议和鼓励。
+- **幽默元素**：
+  - 小明在白板上写代码时的搞笑错误，比如写错变量名或者忘记加分号。
+  - 面试官的无奈表情和小明的紧张反应，小明慌乱的表现和面试官的调侃相互配合，增加笑点。
