@@ -1,7 +1,1 @@
-Chapter 1 Outline:
-- Setting: The city, a bustling metropolis filled with a mix of magic and technology. The atmosphere is tense as rumors of mysterious creatures lurking in the shadows spread.
-- 莱昂纳多: Stands on the city wall, gazing out into the horizon with determination. He is joined by 阿德里安娜, a skilled mage who shares his passion for uncovering the truth behind the ancient symbols on the parchment.
-- 阿德里安娜: Stands beside 莱昂纳多, her eyes filled with determination. Together, they plan to seek an audience with the Duke to present their findings and request his assistance in combating the mysterious creatures threatening the city.
-- Scene 1: The city gates, where 莱昂纳多 and 阿德里安娜 set out on their journey to the Duke's palace. Along the way, they encounter a group of mysterious creatures but manage to fend them off with their combined magical abilities.
-- Scene 2: The Duke's palace, where 莱昂纳多 and 阿德里安娜 are granted an audience. They present their findings on the symbols and their theory on how to use them to protect the city. The Duke is intrigued by their proposal and agrees to support their research.
-- Transition: The chapter ends with 莱昂纳多 and 阿德里安娜 returning to their lodgings, their minds filled with new possibilities and the weight of the task ahead of them. The city's fate now rests in their hands.
+小明的日常工作和生活过得平淡无奇，直到有一天收到了腾讯面试邀请邮件。他激动不已，幻想着成为腾讯高管的场景，满心期待地向朋友和家人炫耀。然而，他的得意被朋友们调侃揭穿，告诉他腾讯的面试其实很难，小明的幸福感顿时破灭，进入了准备面试的紧张阶段。
