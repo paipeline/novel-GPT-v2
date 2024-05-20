@@ -7,10 +7,10 @@ from tasks import Tasks
 class Run:
     def __init__(self):
         # Set environment variables for API keys
-        os.environ["SERPER_API_KEY"] = "8985e3d6df9b41a40e7a536ef31bbb2282b1c1593e95c8f6f0407287a6500220"
-        os.environ["OPENAI_API_KEY"] = "sk-proj-rtDIUElFhtulcjDaCuaZT3BlbkFJPIfAOGnXjfgfAgvjbDv9"
-        os.environ["GROQ_API_KEY"] = "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"
 
+        os.environ["SERPER_API_KEY"] = ""
+        os.environ["OPENAI_API_KEY"] = ""
+        os.environ["GROQ_API_KEY"] = ""
         # Initialize LLM clients
         self.llm = ChatOpenAI(model="gpt-3.5-turbo")
         self.llm4o = ChatOpenAI(model="gpt-4o")
